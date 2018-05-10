@@ -16,6 +16,9 @@ and then open terminal and run it like
 
 ### PARAMS
 ```list [all / completed]``` To list all tasks
+
 ```add "Task details"``` To add new task
+
 ```complete #TaskID``` To complete particular task followed by TaskID
+
 ```delete #TaskID``` To delete particular task followed by TaskID
